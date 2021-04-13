@@ -10734,7 +10734,7 @@ body {
 }
 
 .famille-produits {
-  background-image: url(/assets/css/sass/bet.jpg);
+  background-image: url(/assets/images/bet.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -10750,7 +10750,7 @@ body {
 }
 
 .backsignup {
-  background-image: url(/assets/css/sass/backsignup.jpg);
+  background-image: url(/assets/images/backsignup.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
